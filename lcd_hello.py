@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#Kyampus.in fjifi
+#Kyampus.in python
 
 #import
 
