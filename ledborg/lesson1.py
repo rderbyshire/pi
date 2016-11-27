@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Import the library functions we need
 import time
-import wiringpi2 as wiringpi
+import wiringpipi
 wiringpi.wiringPiSetup()
 
 # Setup the LedBorg GPIO pins
